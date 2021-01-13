@@ -1,15 +1,22 @@
 # Citadel
 
-Things to familiarize yourselves with! Why not:
+## Creating, implempenting, programming and discussing **Smart Home** projects!
+
+Things to familiarize ourselves with! Why not:
 - HomeKit Accessory Protocol (HAP)
 
 
+Open Task list:
+- [ ]
+- [ ]
 
 
 
 
 
+Closed Task list:
 
+- [x] *start*
 
 
 
