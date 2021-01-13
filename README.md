@@ -1,13 +1,15 @@
 # Citadel
 
-## Creating, implempenting, programming and discussing **Smart Home** projects!
+## Creating, implempenting, programming and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** projects!
 
 Things to familiarize ourselves with! Why not:
 - HomeKit Accessory Protocol (HAP)
 
 
 Open Task list:
-- [ ]
+- [ ] Funding for HomeKit Accessories
+  -
+  -
 - [ ]
 
 
