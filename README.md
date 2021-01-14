@@ -9,7 +9,7 @@ Things to familiarize ourselves with! Why not:
 
 Open Task list:
 - [ ] Organize Task list
-- [ ] Funding for HomeKit Accessories
+- [ ] Funding for more HomeKit Accessories
 
 
 
@@ -18,6 +18,7 @@ Open Task list:
 
 Closed Task list:
 
+- [x] *Apple HomePod mini*
 - [x] *start*
 
 
