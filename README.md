@@ -3,7 +3,10 @@
 Openly creating, implempenting, programming and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** projects!(e.g.,automated lights, thermostats, door locks and so much more)
 
 Things to familiarize ourselves with! Why not:
-- HomeKit Accessory Protocol (HAP)
+- HomeKit & HomeKit Accessory Protocol (HAP)
+- Siri
+- Create ML
+- Augmented Reality 
 
 
 
