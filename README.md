@@ -1,6 +1,6 @@
 # Citadel
 
-A collective, Openly creating, implempenting, programming and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** projects!(e.g.,automated lights, thermostats, door locks and so much more)
+Collabrative collective🤝, Openly creating, implempenting, programming and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** projects!(e.g.,automated lights, thermostats, door locks and so much more) 
 
 Things to familiarize ourselves with! Why not:
 - HomeKit & HomeKit Accessory Protocol (HAP)
@@ -11,9 +11,10 @@ Things to familiarize ourselves with! Why not:
 
 
 Open Task list:
+- [ ] Get noticed 🧘‍♀️
 - [ ] Organize Task list
 - [ ] Funding for more HomeKit Accessories
-- [ ] implement Tesla software product's (Solar roof)
+- [ ] implement Tesla software product's (Solar roof, [E-lawn mower](https://twitter.com/TeslaHype/status/1350614098241867777?s=20))
 
 
 
@@ -23,6 +24,7 @@ Open Task list:
 Closed Task list:
 
 - [x] *Apple HomePod mini*
+- [x] *Apple Developer Program membership has been renewed*
 - [x] *start*
 
 
@@ -40,7 +42,7 @@ Closed Task list:
 
 
 
-
+<!--\Community Donation link?--> 
 
 
 [HomeKit Accessory Development Kit ADK](https://github.com/ModestGoblin/HomeKitADK)
