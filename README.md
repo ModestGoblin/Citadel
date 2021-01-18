@@ -13,8 +13,7 @@ Things to familiarize ourselves with! Why not:
 Open Task list:
 - [ ] Get noticed 🧘‍♀️
 - [ ] Organize Task list
-- [ ] Funding for more HomeKit Accessories
-- [ ] implement Tesla software product's (Solar roof, [E-lawn mower](https://twitter.com/TeslaHype/status/1350614098241867777?s=20))
+- [ ] Funding 
 
 
 
@@ -24,7 +23,7 @@ Open Task list:
 Closed Task list:
 
 - [x] *Apple HomePod mini*
-- [x] *Apple Developer Program membership has been renewed*
+- [x] *Apple Developer Program membership*
 - [x] *start*
 
 
