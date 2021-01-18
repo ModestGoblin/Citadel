@@ -1,0 +1,3 @@
+[submodule "HomeKitADK"]
+	path = HomeKitADK
+	url = https://github.com/ModestGoblin/HomeKitADK.git
