@@ -1,17 +1,18 @@
 # Citadel
 
-Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** projects!(e.g.,automated lights, thermostats, door locks and so much more) 
+Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** Design and Development projects!(e.g.,automated lights, thermostats, door locks and so much more) 
 
 Things to familiarize ourselves with! Why not:
-- HomeKit & HomeKit Accessory Protocol (HAP)
+- the HomeKit framework
+- HomeKit Accessory Protocol (HAP)
 - Augmented Reality 
 
 
 
 Open Task list:
 - [ ] Get noticed 🧘‍♀️
-- [ ] Organize Task list
-- [ ] Funding 
+- [ ] Organize Task list(s)*
+- [ ] Funding for full-time Open-source Development and Design
 
 
 
@@ -20,6 +21,7 @@ Open Task list:
 
 Closed Task list:
 
+<!-- - [x] **--> 
 - [x] *Apple HomePod mini*
 - [x] *Apple Developer Program membership*
 - [x] *start*
