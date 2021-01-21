@@ -3,10 +3,11 @@
 Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** Design and Development projects!(e.g.,automated lights, thermostats, door locks and so much more) 
 
 Things to familiarize ourselves with:
+
 - the HomeKit framework
+  - Compatibility & Terminology
 - HomeKit Accessory Protocol (HAP)
 - Augmented Reality 
-
 
 
 Open Task list:
