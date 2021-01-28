@@ -3,48 +3,45 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A8E4FDC25B8652900DF77C1 /* CitadelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E4FC925B8652800DF77C1 /* CitadelApp.swift */; };
-		0A8E4FDD25B8652900DF77C1 /* CitadelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E4FC925B8652800DF77C1 /* CitadelApp.swift */; };
-		0A8E4FDE25B8652900DF77C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E4FCA25B8652800DF77C1 /* ContentView.swift */; };
-		0A8E4FDF25B8652900DF77C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E4FCA25B8652800DF77C1 /* ContentView.swift */; };
-		0A8E4FE025B8652900DF77C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A8E4FCB25B8652900DF77C1 /* Assets.xcassets */; };
-		0A8E4FE125B8652900DF77C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A8E4FCB25B8652900DF77C1 /* Assets.xcassets */; };
-		0A8E4FED25B8657C00DF77C1 /* HomeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A8E4FEC25B8657C00DF77C1 /* HomeKit.framework */; };
-		0A8E4FEF25B865A000DF77C1 /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A8E4FEE25B865A000DF77C1 /* ExternalAccessory.framework */; };
-		0A8E4FF125B8685700DF77C1 /* ARKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A8E4FF025B8685700DF77C1 /* ARKit.framework */; };
+		0A7BA47925C2EC3E0046844B /* CitadelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46625C2EC3D0046844B /* CitadelApp.swift */; };
+		0A7BA47A25C2EC3E0046844B /* CitadelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46625C2EC3D0046844B /* CitadelApp.swift */; };
+		0A7BA47B25C2EC3E0046844B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46725C2EC3D0046844B /* ContentView.swift */; };
+		0A7BA47C25C2EC3E0046844B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46725C2EC3D0046844B /* ContentView.swift */; };
+		0A7BA47D25C2EC3E0046844B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A7BA46825C2EC3E0046844B /* Assets.xcassets */; };
+		0A7BA47E25C2EC3E0046844B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A7BA46825C2EC3E0046844B /* Assets.xcassets */; };
+		0A7BA48A25C2EC920046844B /* HomeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A7BA48925C2EC920046844B /* HomeKit.framework */; };
+		0A7BA48C25C2ECA70046844B /* ExternalAccessory.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A7BA48B25C2ECA70046844B /* ExternalAccessory.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0A8E4FC925B8652800DF77C1 /* CitadelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitadelApp.swift; sourceTree = "<group>"; };
-		0A8E4FCA25B8652800DF77C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		0A8E4FCB25B8652900DF77C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0A8E4FD025B8652900DF77C1 /* Citadel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citadel.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0A8E4FD325B8652900DF77C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0A8E4FD825B8652900DF77C1 /* Citadel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citadel.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0A8E4FDA25B8652900DF77C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0A8E4FDB25B8652900DF77C1 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
-		0A8E4FEA25B8657C00DF77C1 /* Citadel.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Citadel.entitlements; sourceTree = "<group>"; };
-		0A8E4FEC25B8657C00DF77C1 /* HomeKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HomeKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/HomeKit.framework; sourceTree = DEVELOPER_DIR; };
-		0A8E4FEE25B865A000DF77C1 /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/ExternalAccessory.framework; sourceTree = DEVELOPER_DIR; };
-		0A8E4FF025B8685700DF77C1 /* ARKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ARKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/ARKit.framework; sourceTree = DEVELOPER_DIR; };
+		0A7BA46625C2EC3D0046844B /* CitadelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitadelApp.swift; sourceTree = "<group>"; };
+		0A7BA46725C2EC3D0046844B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0A7BA46825C2EC3E0046844B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0A7BA46D25C2EC3E0046844B /* Citadel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citadel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A7BA47025C2EC3E0046844B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A7BA47525C2EC3E0046844B /* Citadel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citadel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0A7BA47725C2EC3E0046844B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A7BA47825C2EC3E0046844B /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		0A7BA48725C2EC800046844B /* Citadel.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Citadel.entitlements; sourceTree = "<group>"; };
+		0A7BA48925C2EC920046844B /* HomeKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HomeKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/HomeKit.framework; sourceTree = DEVELOPER_DIR; };
+		0A7BA48B25C2ECA70046844B /* ExternalAccessory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ExternalAccessory.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/ExternalAccessory.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0A8E4FCD25B8652900DF77C1 /* Frameworks */ = {
+		0A7BA46A25C2EC3E0046844B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A8E4FF125B8685700DF77C1 /* ARKit.framework in Frameworks */,
-				0A8E4FEF25B865A000DF77C1 /* ExternalAccessory.framework in Frameworks */,
-				0A8E4FED25B8657C00DF77C1 /* HomeKit.framework in Frameworks */,
+				0A7BA48C25C2ECA70046844B /* ExternalAccessory.framework in Frameworks */,
+				0A7BA48A25C2EC920046844B /* HomeKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0A8E4FD525B8652900DF77C1 /* Frameworks */ = {
+		0A7BA47225C2EC3E0046844B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -54,60 +51,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0A8E4FC325B8652800DF77C1 = {
+		0A7BA46025C2EC3D0046844B = {
 			isa = PBXGroup;
 			children = (
-				0A8E4FC825B8652800DF77C1 /* Shared */,
-				0A8E4FD225B8652900DF77C1 /* iOS */,
-				0A8E4FD925B8652900DF77C1 /* macOS */,
-				0A8E4FD125B8652900DF77C1 /* Products */,
-				0A8E4FEB25B8657C00DF77C1 /* Frameworks */,
+				0A7BA46525C2EC3D0046844B /* Shared */,
+				0A7BA46F25C2EC3E0046844B /* iOS */,
+				0A7BA47625C2EC3E0046844B /* macOS */,
+				0A7BA46E25C2EC3E0046844B /* Products */,
+				0A7BA48825C2EC920046844B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		0A8E4FC825B8652800DF77C1 /* Shared */ = {
+		0A7BA46525C2EC3D0046844B /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				0A8E4FC925B8652800DF77C1 /* CitadelApp.swift */,
-				0A8E4FCA25B8652800DF77C1 /* ContentView.swift */,
-				0A8E4FCB25B8652900DF77C1 /* Assets.xcassets */,
+				0A7BA46625C2EC3D0046844B /* CitadelApp.swift */,
+				0A7BA46725C2EC3D0046844B /* ContentView.swift */,
+				0A7BA46825C2EC3E0046844B /* Assets.xcassets */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		0A8E4FD125B8652900DF77C1 /* Products */ = {
+		0A7BA46E25C2EC3E0046844B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0A8E4FD025B8652900DF77C1 /* Citadel.app */,
-				0A8E4FD825B8652900DF77C1 /* Citadel.app */,
+				0A7BA46D25C2EC3E0046844B /* Citadel.app */,
+				0A7BA47525C2EC3E0046844B /* Citadel.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0A8E4FD225B8652900DF77C1 /* iOS */ = {
+		0A7BA46F25C2EC3E0046844B /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				0A8E4FEA25B8657C00DF77C1 /* Citadel.entitlements */,
-				0A8E4FD325B8652900DF77C1 /* Info.plist */,
+				0A7BA48725C2EC800046844B /* Citadel.entitlements */,
+				0A7BA47025C2EC3E0046844B /* Info.plist */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
 		};
-		0A8E4FD925B8652900DF77C1 /* macOS */ = {
+		0A7BA47625C2EC3E0046844B /* macOS */ = {
 			isa = PBXGroup;
 			children = (
-				0A8E4FDA25B8652900DF77C1 /* Info.plist */,
-				0A8E4FDB25B8652900DF77C1 /* macOS.entitlements */,
+				0A7BA47725C2EC3E0046844B /* Info.plist */,
+				0A7BA47825C2EC3E0046844B /* macOS.entitlements */,
 			);
 			path = macOS;
 			sourceTree = "<group>";
 		};
-		0A8E4FEB25B8657C00DF77C1 /* Frameworks */ = {
+		0A7BA48825C2EC920046844B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				0A8E4FF025B8685700DF77C1 /* ARKit.framework */,
-				0A8E4FEE25B865A000DF77C1 /* ExternalAccessory.framework */,
-				0A8E4FEC25B8657C00DF77C1 /* HomeKit.framework */,
+				0A7BA48B25C2ECA70046844B /* ExternalAccessory.framework */,
+				0A7BA48925C2EC920046844B /* HomeKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -115,13 +111,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0A8E4FCF25B8652900DF77C1 /* iOS */ = {
+		0A7BA46C25C2EC3E0046844B /* iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A8E4FE425B8652900DF77C1 /* Build configuration list for PBXNativeTarget "iOS" */;
+			buildConfigurationList = 0A7BA48125C2EC3E0046844B /* Build configuration list for PBXNativeTarget "iOS" */;
 			buildPhases = (
-				0A8E4FCC25B8652900DF77C1 /* Sources */,
-				0A8E4FCD25B8652900DF77C1 /* Frameworks */,
-				0A8E4FCE25B8652900DF77C1 /* Resources */,
+				0A7BA46925C2EC3E0046844B /* Sources */,
+				0A7BA46A25C2EC3E0046844B /* Frameworks */,
+				0A7BA46B25C2EC3E0046844B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -129,16 +125,16 @@
 			);
 			name = iOS;
 			productName = iOS;
-			productReference = 0A8E4FD025B8652900DF77C1 /* Citadel.app */;
+			productReference = 0A7BA46D25C2EC3E0046844B /* Citadel.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0A8E4FD725B8652900DF77C1 /* macOS */ = {
+		0A7BA47425C2EC3E0046844B /* macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0A8E4FE725B8652900DF77C1 /* Build configuration list for PBXNativeTarget "macOS" */;
+			buildConfigurationList = 0A7BA48425C2EC3E0046844B /* Build configuration list for PBXNativeTarget "macOS" */;
 			buildPhases = (
-				0A8E4FD425B8652900DF77C1 /* Sources */,
-				0A8E4FD525B8652900DF77C1 /* Frameworks */,
-				0A8E4FD625B8652900DF77C1 /* Resources */,
+				0A7BA47125C2EC3E0046844B /* Sources */,
+				0A7BA47225C2EC3E0046844B /* Frameworks */,
+				0A7BA47325C2EC3E0046844B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -146,87 +142,87 @@
 			);
 			name = macOS;
 			productName = macOS;
-			productReference = 0A8E4FD825B8652900DF77C1 /* Citadel.app */;
+			productReference = 0A7BA47525C2EC3E0046844B /* Citadel.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0A8E4FC425B8652800DF77C1 /* Project object */ = {
+		0A7BA46125C2EC3D0046844B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
-					0A8E4FCF25B8652900DF77C1 = {
+					0A7BA46C25C2EC3E0046844B = {
 						CreatedOnToolsVersion = 12.0;
 					};
-					0A8E4FD725B8652900DF77C1 = {
+					0A7BA47425C2EC3E0046844B = {
 						CreatedOnToolsVersion = 12.0;
 					};
 				};
 			};
-			buildConfigurationList = 0A8E4FC725B8652800DF77C1 /* Build configuration list for PBXProject "Citadel" */;
-			compatibilityVersion = "Xcode 9.3";
+			buildConfigurationList = 0A7BA46425C2EC3D0046844B /* Build configuration list for PBXProject "Citadel" */;
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 0A8E4FC325B8652800DF77C1;
-			productRefGroup = 0A8E4FD125B8652900DF77C1 /* Products */;
+			mainGroup = 0A7BA46025C2EC3D0046844B;
+			productRefGroup = 0A7BA46E25C2EC3E0046844B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0A8E4FCF25B8652900DF77C1 /* iOS */,
-				0A8E4FD725B8652900DF77C1 /* macOS */,
+				0A7BA46C25C2EC3E0046844B /* iOS */,
+				0A7BA47425C2EC3E0046844B /* macOS */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0A8E4FCE25B8652900DF77C1 /* Resources */ = {
+		0A7BA46B25C2EC3E0046844B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A8E4FE025B8652900DF77C1 /* Assets.xcassets in Resources */,
+				0A7BA47D25C2EC3E0046844B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0A8E4FD625B8652900DF77C1 /* Resources */ = {
+		0A7BA47325C2EC3E0046844B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A8E4FE125B8652900DF77C1 /* Assets.xcassets in Resources */,
+				0A7BA47E25C2EC3E0046844B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0A8E4FCC25B8652900DF77C1 /* Sources */ = {
+		0A7BA46925C2EC3E0046844B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A8E4FDE25B8652900DF77C1 /* ContentView.swift in Sources */,
-				0A8E4FDC25B8652900DF77C1 /* CitadelApp.swift in Sources */,
+				0A7BA47B25C2EC3E0046844B /* ContentView.swift in Sources */,
+				0A7BA47925C2EC3E0046844B /* CitadelApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0A8E4FD425B8652900DF77C1 /* Sources */ = {
+		0A7BA47125C2EC3E0046844B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A8E4FDF25B8652900DF77C1 /* ContentView.swift in Sources */,
-				0A8E4FDD25B8652900DF77C1 /* CitadelApp.swift in Sources */,
+				0A7BA47C25C2EC3E0046844B /* ContentView.swift in Sources */,
+				0A7BA47A25C2EC3E0046844B /* CitadelApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		0A8E4FE225B8652900DF77C1 /* Debug */ = {
+		0A7BA47F25C2EC3E0046844B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,7 +281,7 @@
 			};
 			name = Debug;
 		};
-		0A8E4FE325B8652900DF77C1 /* Release */ = {
+		0A7BA48025C2EC3E0046844B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -337,12 +333,13 @@
 			};
 			name = Release;
 		};
-		0A8E4FE525B8652900DF77C1 /* Debug */ = {
+		0A7BA48225C2EC3E0046844B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = iOS/Citadel.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2HP287XL27;
 				ENABLE_PREVIEWS = YES;
@@ -354,18 +351,20 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Citadel.Citadel;
 				PRODUCT_NAME = Citadel;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		0A8E4FE625B8652900DF77C1 /* Release */ = {
+		0A7BA48325C2EC3E0046844B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = iOS/Citadel.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2HP287XL27;
 				ENABLE_PREVIEWS = YES;
@@ -377,6 +376,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Citadel.Citadel;
 				PRODUCT_NAME = Citadel;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -384,7 +384,7 @@
 			};
 			name = Release;
 		};
-		0A8E4FE825B8652900DF77C1 /* Debug */ = {
+		0A7BA48525C2EC3E0046844B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -408,7 +408,7 @@
 			};
 			name = Debug;
 		};
-		0A8E4FE925B8652900DF77C1 /* Release */ = {
+		0A7BA48625C2EC3E0046844B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -435,34 +435,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0A8E4FC725B8652800DF77C1 /* Build configuration list for PBXProject "Citadel" */ = {
+		0A7BA46425C2EC3D0046844B /* Build configuration list for PBXProject "Citadel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0A8E4FE225B8652900DF77C1 /* Debug */,
-				0A8E4FE325B8652900DF77C1 /* Release */,
+				0A7BA47F25C2EC3E0046844B /* Debug */,
+				0A7BA48025C2EC3E0046844B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A8E4FE425B8652900DF77C1 /* Build configuration list for PBXNativeTarget "iOS" */ = {
+		0A7BA48125C2EC3E0046844B /* Build configuration list for PBXNativeTarget "iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0A8E4FE525B8652900DF77C1 /* Debug */,
-				0A8E4FE625B8652900DF77C1 /* Release */,
+				0A7BA48225C2EC3E0046844B /* Debug */,
+				0A7BA48325C2EC3E0046844B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0A8E4FE725B8652900DF77C1 /* Build configuration list for PBXNativeTarget "macOS" */ = {
+		0A7BA48425C2EC3E0046844B /* Build configuration list for PBXNativeTarget "macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0A8E4FE825B8652900DF77C1 /* Debug */,
-				0A8E4FE925B8652900DF77C1 /* Release */,
+				0A7BA48525C2EC3E0046844B /* Debug */,
+				0A7BA48625C2EC3E0046844B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0A8E4FC425B8652800DF77C1 /* Project object */;
+	rootObject = 0A7BA46125C2EC3D0046844B /* Project object */;
 }
