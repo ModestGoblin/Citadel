@@ -1,15 +1,16 @@
-# Citadel <!-- 🕵🏽‍♂️-->
+# Citadel <!-- 🕵🏽‍ ... 👌🏽♂️-->
 
-Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) **Smart Home** Design and Development projects!(e.g.,automated lights, thermostats, door locks and so much more) 
+Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) Apple Inc Frameworks & Technologies!
 
 Things to familiarize ourselves with:
 
 - the HomeKit framework
-  - Compatibility & Terminology
+  - Compatibility & Terminology (e.g.,automated lights, thermostats, door locks and so much more) 
 - HomeKit Accessory Protocol (HAP)
   - *Reference*: [Release R2](https://developer.apple.com/homekit/specification/)
 - Augmented Reality 
-
+- WatchKit 
+  - Complications 
 
 Open Task list:
 - [ ] Planning
@@ -23,6 +24,7 @@ Open Task list:
 Closed Task list:
 
 <!-- - [x] **--> 
+- [x] *Apple Watch* <!-- ? suppose it wasn't necessary for development, but eh, AAPL has great dividends, I just wanted to treat myself, and I love it. Once funding secured will make sure each major contributor recieves one.-->
 - [x] *Apple Developer Program membership*
 - [x] *start*
 
