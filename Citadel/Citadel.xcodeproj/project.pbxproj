@@ -349,7 +349,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Citadel.Citadel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Open.Citadel;
 				PRODUCT_NAME = Citadel;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -374,7 +374,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Citadel.Citadel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Open.Citadel;
 				PRODUCT_NAME = Citadel;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
