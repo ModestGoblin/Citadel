@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import UIKit
+import ARKit
 
 @main
 struct CitadelApp: App {

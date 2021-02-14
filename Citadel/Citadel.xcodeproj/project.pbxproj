@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A0379AB25D96097007E0DA3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0A0379AA25D96097007E0DA3 /* README.md */; };
+		0A0379AC25D96097007E0DA3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0A0379AA25D96097007E0DA3 /* README.md */; };
 		0A7BA47925C2EC3E0046844B /* CitadelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46625C2EC3D0046844B /* CitadelApp.swift */; };
 		0A7BA47A25C2EC3E0046844B /* CitadelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46625C2EC3D0046844B /* CitadelApp.swift */; };
 		0A7BA47B25C2EC3E0046844B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7BA46725C2EC3D0046844B /* ContentView.swift */; };
@@ -18,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A0379AA25D96097007E0DA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0A7BA46625C2EC3D0046844B /* CitadelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitadelApp.swift; sourceTree = "<group>"; };
 		0A7BA46725C2EC3D0046844B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0A7BA46825C2EC3E0046844B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,9 +54,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0A0379AD25D9615B007E0DA3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		0A7BA46025C2EC3D0046844B = {
 			isa = PBXGroup;
 			children = (
+				0A0379AA25D96097007E0DA3 /* README.md */,
 				0A7BA46525C2EC3D0046844B /* Shared */,
 				0A7BA46F25C2EC3E0046844B /* iOS */,
 				0A7BA47625C2EC3E0046844B /* macOS */,
@@ -65,6 +76,7 @@
 		0A7BA46525C2EC3D0046844B /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				0A0379AD25D9615B007E0DA3 /* Model */,
 				0A7BA46625C2EC3D0046844B /* CitadelApp.swift */,
 				0A7BA46725C2EC3D0046844B /* ContentView.swift */,
 				0A7BA46825C2EC3E0046844B /* Assets.xcassets */,
@@ -186,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A0379AB25D96097007E0DA3 /* README.md in Resources */,
 				0A7BA47D25C2EC3E0046844B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -194,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A0379AC25D96097007E0DA3 /* README.md in Resources */,
 				0A7BA47E25C2EC3E0046844B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
