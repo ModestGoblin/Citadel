@@ -20,6 +20,7 @@
 		0AA60B7525DD56D500188959 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA60B7425DD56D500188959 /* HealthKit.framework */; };
 		0AA60B7725DD575E00188959 /* Accessibility.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA60B7625DD575E00188959 /* Accessibility.framework */; };
 		0AA60B7925DD576E00188959 /* ClockKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA60B7825DD576E00188959 /* ClockKit.framework */; };
+		0AA77A2025DF2020001BE64D /* NetworkExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA77A1F25DF2020001BE64D /* NetworkExtension.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		0AA60B7425DD56D500188959 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/HealthKit.framework; sourceTree = DEVELOPER_DIR; };
 		0AA60B7625DD575E00188959 /* Accessibility.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accessibility.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Accessibility.framework; sourceTree = DEVELOPER_DIR; };
 		0AA60B7825DD576E00188959 /* ClockKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ClockKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/ClockKit.framework; sourceTree = DEVELOPER_DIR; };
+		0AA77A1F25DF2020001BE64D /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/NetworkExtension.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +48,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AA60B7925DD576E00188959 /* ClockKit.framework in Frameworks */,
+				0AA77A2025DF2020001BE64D /* NetworkExtension.framework in Frameworks */,
 				0AA60B7525DD56D500188959 /* HealthKit.framework in Frameworks */,
 				0A7BA48C25C2ECA70046844B /* ExternalAccessory.framework in Frameworks */,
 				0A7BA48A25C2EC920046844B /* HomeKit.framework in Frameworks */,
@@ -123,6 +126,7 @@
 		0A7BA48825C2EC920046844B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0AA77A1F25DF2020001BE64D /* NetworkExtension.framework */,
 				0AA60B7825DD576E00188959 /* ClockKit.framework */,
 				0AA60B7625DD575E00188959 /* Accessibility.framework */,
 				0AA60B7425DD56D500188959 /* HealthKit.framework */,
@@ -375,7 +379,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.accessible.Citadel;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.--appdevelopment.Citadel";
 				PRODUCT_NAME = Citadel;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -401,7 +405,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.accessible.Citadel;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.--appdevelopment.Citadel";
 				PRODUCT_NAME = Citadel;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
