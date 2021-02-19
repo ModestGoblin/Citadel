@@ -24,7 +24,7 @@ Open Task list:
 Closed Task list:
 
 <!-- - [x] **--> 
-- [x] *Apple Watch* <!-- ? suppose it wasn't necessary for development, but eh, AAPL has great dividends, I just wanted to treat myself, and I love it. Once funding secured will make sure each major contributor recieves one.-->
+- [x] *Apple Watch * 3* :*for Mom and Girlfriend*<!-- ? suppose it wasn't necessary for development, but eh, AAPL has great dividends, I just wanted to treat myself, and I love it. Once funding secured will make sure each major contributor recieves one.-->
 - [x] *Apple Developer Program membership*
 - [x] *start*
 
