@@ -1,8 +1,8 @@
 # Citadel <!-- 🕵🏽‍ ... 👌🏽♂️-->
 
-Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) Apple Inc Frameworks & Technologies!
+Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) Apple Frameworks & Technologies!
 
-Things to familiarize ourselves with:
+Things to familiarize yourself with:
 
 - the HomeKit framework
   - Compatibility & Terminology (e.g.,automated lights, thermostats, door locks and so much more) 
@@ -25,6 +25,7 @@ Closed Task list:
 
 <!-- - [x] **--> 
 - [x] *Apple Watch * 3* :*for Mom and Girlfriend*<!-- ? suppose it wasn't necessary for development, but eh, AAPL has great dividends, I just wanted to treat myself, and I love it. Once funding secured will make sure each major contributor recieves one.-->
+- [x] *App Store Small Business Program*
 - [x] *Apple Developer Program membership*
 - [x] *start*
 
