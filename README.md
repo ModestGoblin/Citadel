@@ -1,6 +1,6 @@
 # Citadel <!-- 🕵🏽‍ ... 👌🏽♂️-->
 
-Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) Apple Frameworks & Technologies!
+Openly creating, implempenting and [discussing](https://github.com/ModestGoblin/Citadel/discussions) Apple & Google<!-- completely open too suggestions, havent messed with android since the DROID --> Frameworks & Technologies!
 
 Things to familiarize yourself with:
 
