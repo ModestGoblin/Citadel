@@ -15,7 +15,7 @@ Things to familiarize yourself with:
 Open Task list:
 - [ ] Planning
 - [ ] Funding
-
+- [ ] AirTag([s](https://www.apple.com/ca/shop/buy-airtag/airtag/4-pack))
 
 
 
@@ -24,7 +24,8 @@ Open Task list:
 Closed Task list:
 
 <!-- - [x] **--> 
-- [x] *Apple Watch * 3* :*for Mom and Girlfriend*<!-- ? suppose it wasn't necessary for development, but eh, AAPL has great dividends, I just wanted to treat myself, and I love it. Once funding secured will make sure each major contributor recieves one.-->
+
+- [x] *Apple Watch * 2* :*for Mom and Girlfriend*<!-- ? suppose it wasn't necessary for development, but eh, AAPL has great dividends, I just wanted to treat myself, and I love it. Once funding secured will make sure each major contributor recieves one.-->
 - [x] *App Store Small Business Program*
 - [x] *Apple Developer Program membership*
 - [x] *start*
