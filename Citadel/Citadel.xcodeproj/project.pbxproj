@@ -21,6 +21,8 @@
 		0AA60B7725DD575E00188959 /* Accessibility.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA60B7625DD575E00188959 /* Accessibility.framework */; };
 		0AA60B7925DD576E00188959 /* ClockKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA60B7825DD576E00188959 /* ClockKit.framework */; };
 		0AA77A2025DF2020001BE64D /* NetworkExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AA77A1F25DF2020001BE64D /* NetworkExtension.framework */; };
+		0AFD2E122613705E00E6A1A0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0AFD2E1126136FE500E6A1A0 /* Info.plist */; };
+		0AFD2E132613706000E6A1A0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0AFD2E1126136FE500E6A1A0 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +31,6 @@
 		0A7BA46725C2EC3D0046844B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0A7BA46825C2EC3E0046844B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A7BA46D25C2EC3E0046844B /* Citadel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citadel.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0A7BA47025C2EC3E0046844B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A7BA47525C2EC3E0046844B /* Citadel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citadel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A7BA47725C2EC3E0046844B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A7BA47825C2EC3E0046844B /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		0AA60B7625DD575E00188959 /* Accessibility.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accessibility.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Accessibility.framework; sourceTree = DEVELOPER_DIR; };
 		0AA60B7825DD576E00188959 /* ClockKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ClockKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/ClockKit.framework; sourceTree = DEVELOPER_DIR; };
 		0AA77A1F25DF2020001BE64D /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/NetworkExtension.framework; sourceTree = DEVELOPER_DIR; };
+		0AFD2E1026136FE500E6A1A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				0A7BA48725C2EC800046844B /* Citadel.entitlements */,
-				0A7BA47025C2EC3E0046844B /* Info.plist */,
+				0AFD2E1126136FE500E6A1A0 /* Info.plist */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
@@ -216,6 +218,7 @@
 			files = (
 				0A0379AB25D96097007E0DA3 /* README.md in Resources */,
 				0A7BA47D25C2EC3E0046844B /* Assets.xcassets in Resources */,
+				0AFD2E122613705E00E6A1A0 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +228,7 @@
 			files = (
 				0A0379AC25D96097007E0DA3 /* README.md in Resources */,
 				0A7BA47E25C2EC3E0046844B /* Assets.xcassets in Resources */,
+				0AFD2E132613706000E6A1A0 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +254,17 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0AFD2E1126136FE500E6A1A0 /* Info.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0AFD2E1026136FE500E6A1A0 /* Base */,
+			);
+			name = Info.plist;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		0A7BA47F25C2EC3E0046844B /* Debug */ = {

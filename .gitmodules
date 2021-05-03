@@ -1,3 +1,6 @@
 [submodule "HomeKitADK"]
 	path = HomeKitADK
 	url = https://github.com/ModestGoblin/HomeKitADK.git
+[submodule "UnrealEngine"]
+	path = UnrealEngine
+	url = https://github.com/ModestGoblin/UnrealEngine.git
