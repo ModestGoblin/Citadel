@@ -13,9 +13,8 @@ Things to familiarize yourself with:
   - Complications 
 
 Open Task list:
-- [ ] Planning
-- [ ] Funding
-- [ ] AirTag([s](https://www.apple.com/ca/shop/buy-airtag/airtag/4-pack))
+- [ ] Planning Alway(S)
+- [ ] AirTag([s](https://www.apple.com/ca/shop/buy-airtag/airtag/4-pack)) 💠:feelsgood:^22
 
 
 
