@@ -4,3 +4,6 @@
 [submodule "UnrealEngine"]
 	path = UnrealEngine
 	url = https://github.com/ModestGoblin/UnrealEngine.git
+[submodule "fedjax"]
+	path = fedjax
+	url = https://github.com/ModestGoblin/fedjax.git
