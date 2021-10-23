@@ -14,7 +14,7 @@ Things to familiarize yourself with:
 
 Open Task list:
 - [ ] Planning Alway(S)
-- [ ] AirTag([s](https://www.apple.com/ca/shop/buy-airtag/airtag/4-pack)) 💠:feelsgood:^22
+- [ ] AirTag([s](https://www.apple.com/ca/shop/buy-airtag/airtag/4-pack)) 💠:feelsgood:^8
 
 
 
